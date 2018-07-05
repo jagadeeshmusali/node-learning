@@ -1,0 +1,23 @@
+{
+  "name": "learningsession",
+  "version": "1.0.0",
+  "description": "Never miss a thing in life. Take notes quickly. Organize and keep track of entry point",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose",
+    "Notes"
+  ],
+  "author": "Jagadeesh Musali",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.1"
+  }
+}
